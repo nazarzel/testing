@@ -1,0 +1,1 @@
+FileCopy("C:\Users\user.STEP\Desktop\lol.txt", "D:\111.txt")

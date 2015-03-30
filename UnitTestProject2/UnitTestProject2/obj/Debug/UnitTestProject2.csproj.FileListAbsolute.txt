@@ -1,0 +1,16 @@
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.dll
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.dll
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.pdb
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.xml
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.pdb
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.xml
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+c:\users\назар\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

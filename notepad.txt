@@ -1,0 +1,10 @@
+Run("notepad.exe")
+WinWaitActive("Untitled - Notepad")
+Send("This is some text.")
+WinClose("Untitled - Notepad")
+WinWaitActive("Notepad", "Save")
+Send("{ENTER}") ;
+Sleep(1000)
+Send('C:\Users\user.STEP\Desktop\newName.txt')
+Sleep(1000)
+Send("!s")
